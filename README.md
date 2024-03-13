@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning laravel development
-- 💬 Ask me about web programming
+- 📫 How to reach me: send an email to ayub.rmd@gmail.com
 <!--
 **rahmandayub/rahmandayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
