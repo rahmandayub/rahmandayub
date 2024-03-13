@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning laravel development
+- 🌱 I’m currently learning laravel development
+- 💬 Ask me about web programming
 <!--
 **rahmandayub/rahmandayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
